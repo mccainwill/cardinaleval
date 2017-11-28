@@ -290,7 +290,7 @@ body {
   /* Fifth Third Bank Project */
   .fifththird-splash {
     padding: 0;
-    background-size: auto;
+    background-size: cover;
     flex-direction: row-reverse; }
     .fifththird-splash .fifththird-pic {
       flex: 1;
