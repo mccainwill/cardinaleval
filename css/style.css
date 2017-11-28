@@ -212,11 +212,11 @@ body {
   /* General Styles */
   /* Top Splash Banner */
   .banner {
-    height: 400px; }
+    height: 480px; }
     .banner .logo {
       margin: 1rem 0 0 3rem; }
     .banner h1 {
-      font-size: 3em;
+      font-size: 4em;
       padding: 0;
       width: 70%; }
 
